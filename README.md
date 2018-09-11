@@ -1,1 +1,1 @@
-# wedding-card
+THIS IS A WEDDING CARD SAMPLE
